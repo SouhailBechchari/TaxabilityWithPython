@@ -1,4 +1,4 @@
-age=int(input("tapez votre âge."))
+age=int(input("tapez votre Ã¢ge."))
 sexe=str(input("tapez votre sexe."))
 
 if sexe == "homme" and age>20:
